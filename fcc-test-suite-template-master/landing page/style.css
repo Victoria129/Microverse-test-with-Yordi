@@ -1,0 +1,21 @@
+body{
+    background-color: lightgrey;
+  }
+  
+  #footer{
+    background-color: rgb(233, 233, 233);
+  }
+  .copy-right{
+    color: gray;
+  }
+  .price-box{
+    border: 1px solid black;
+  }
+#top-price-bar{
+width: 100%;
+background-color: lightgray;
+height: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+  }
